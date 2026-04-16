@@ -58,8 +58,8 @@ Welcome to SmartCampus Management System
 Choose an option: 1
 Enter student details:
 Student ID: 101
-Name: Khushi
-Email: khushi@example.com
+Name: Shagun 
+Email: Shagun@example.com
 Student added successfully.
 
 --- SmartCampus Menu ---
@@ -113,7 +113,7 @@ Enrollment processing completed.
 7. Exit
 Choose an option: 5
 Completed enrollments:
-  Khushi: [Java Programming]
+  Shagun: [Java Programming]
 Pending enrollment requests: 0
 ```
 MCQ 1: Collections Design – B
